@@ -1,13 +1,13 @@
-package com.polarlights.springboot.CRUD.backend;
+package com.the_polar_lights.spring_boot_crud_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootCrudBackendApplication {
+public class SpringBootCrudAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootCrudBackendApplication.class, args);
+		SpringApplication.run(SpringBootCrudAppApplication.class, args);
 	}
 
 }
